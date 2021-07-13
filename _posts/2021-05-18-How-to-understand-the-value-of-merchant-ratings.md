@@ -5,7 +5,6 @@ author: Alkaid Waong
 categories: [ Product Backlog ]
 image: assets/images/3.jpg
 beforetoc: "对于平台产品而言，有效的管理商家是不可绕过的话题.那么如何理解商家评分对于商家管理的意义？"
-toc: true
 ---
 
 
